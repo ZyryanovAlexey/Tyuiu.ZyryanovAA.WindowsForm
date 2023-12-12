@@ -1,0 +1,10 @@
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\obj\Debug\Tyuiu.ZyryanovAA.WindowsForm2.csproj.AssemblyReference.cache
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\obj\Debug\Tyuiu.ZyryanovAA.WindowsForm2.Properties.Resources.resources
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\obj\Debug\Tyuiu.ZyryanovAA.WindowsForm2.csproj.GenerateResource.cache
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\obj\Debug\Tyuiu.ZyryanovAA.WindowsForm2.csproj.CoreCompileInputs.cache
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\bin\Debug\Tyuiu.ZyryanovAA.WindowsForm2.exe.config
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\bin\Debug\Tyuiu.ZyryanovAA.WindowsForm2.exe
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\bin\Debug\Tyuiu.ZyryanovAA.WindowsForm2.pdb
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\obj\Debug\Tyuiu.ZyryanovAA.WindowsForm2.exe
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\obj\Debug\Tyuiu.ZyryanovAA.WindowsForm2.pdb
+D:\Учеба 2.0\C#3\Tyuiu.ZyryanovAA.WindowsForm2\obj\Debug\Tyuiu.ZyryanovAA.WindowsForm2.Form2.resources

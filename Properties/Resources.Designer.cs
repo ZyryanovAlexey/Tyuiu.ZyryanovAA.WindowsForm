@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tyuiu.ZyryanovAA.WindowsForm.Properties
+namespace Tyuiu.ZyryanovAA.WindowsForm2.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Tyuiu.ZyryanovAA.WindowsForm.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Tyuiu.ZyryanovAA.WindowsForm.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Tyuiu.ZyryanovAA.WindowsForm2.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

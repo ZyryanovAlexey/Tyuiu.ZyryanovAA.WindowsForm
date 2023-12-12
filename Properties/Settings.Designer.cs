@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Tyuiu.ZyryanovAA.WindowsForm.Properties
+namespace Tyuiu.ZyryanovAA.WindowsForm2.Properties
 {
 
 

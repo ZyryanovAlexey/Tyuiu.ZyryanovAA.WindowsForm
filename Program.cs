@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tyuiu.ZyryanovAA.WindowsForm
+namespace Tyuiu.ZyryanovAA.WindowsForm2
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Tyuiu.ZyryanovAA.WindowsForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form2());
         }
     }
 }
